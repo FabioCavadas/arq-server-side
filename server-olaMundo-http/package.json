@@ -1,0 +1,11 @@
+{
+  "name": "server-olamundo-http",
+  "version": "1.0.0",
+  "description": "Exemplo de servidor http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fábio Cavadas",
+  "license": "ISC"
+}

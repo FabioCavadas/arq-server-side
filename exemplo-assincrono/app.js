@@ -9,4 +9,4 @@ fs.readFile('exemplo.tx', 'utf8', (err, data) => {
   console.log('Conteúdo do arquivo:', data);
 });
 
-console.log('Lendo o arquivo...'); 
+console.log('Arquivo Lido...'); 
